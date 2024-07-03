@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://josgure.github.io/sitemap
+Sitemap: https://josgure.github.io/app/sitemap
+Sitemap: https://josgure.github.io/assets/sitemap
+Sitemap: https://josgure.github.io/css/sitemap
+Sitemap: https://josgure.github.io/includes/sitemap
+Sitemap: https://josgure.github.io/item/sitemap
+Sitemap: https://josgure.github.io/src/sitemap
